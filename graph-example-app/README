@@ -1,0 +1,7 @@
+To build the graphing app, follow these steps:
+
+1) Download
+2) Unzip/Untar
+3) Build with either palm-package, or the recommended solution is to use our PHP/MySQL based makefile
+
+If you edit the source code with the intent to redistribute, you must provide the source code back to us, per the requirements of the AGPLv3 license.
