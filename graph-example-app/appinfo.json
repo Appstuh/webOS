@@ -1,0 +1,9 @@
+{
+	"id": "com.appstuh.graphex",
+	"version": "1.0.0",
+	"vendor": "Appstuh Mobile",
+	"type": "web",
+	"main": "index.html",
+	"title": "Appstuh Graphing Library",
+	"icon": "icon.png"
+}

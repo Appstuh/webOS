@@ -1,0 +1,12 @@
+[
+    {"source": "app/models/graph.js"},
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "nav",
+        "source": "app/assistants/nav-assistant.js"
+    },
+    {
+        "scenes": "graph",
+        "source": "app/assistants/graph-assistant.js"
+    }
+]
